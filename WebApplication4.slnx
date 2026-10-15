@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="WebApplication4/WebApplication4.csproj" />
+  <Project Path="WebApplicationData/WebApplicationData.csproj" Id="c6014157-b795-4bd6-b5a1-d93178404448" />
+</Solution>
